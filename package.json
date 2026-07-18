@@ -1,0 +1,15 @@
+{
+  "name": "news-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts/fetch-news.js",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

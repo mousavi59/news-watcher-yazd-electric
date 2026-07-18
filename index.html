@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>رصد اخبار | برق منطقه‌ای یزد</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #0e1216;
+    --panel: #161c22;
+    --panel-2: #1c232b;
+    --line: #262f38;
+    --amber: #f2b632;
+    --amber-dim: #7a5c1e;
+    --text: #e8ecef;
+    --text-dim: #8b96a1;
+    --ok: #4fae7d;
+    --err: #c96a5a;
+    --radius: 10px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(1200px 500px at 85% -10%, rgba(242,182,50,0.06), transparent 60%),
+      var(--bg);
+    color:var(--text);
+    font-family:'Vazirmatn', system-ui, sans-serif;
+    min-height:100vh;
+  }
+  .mono{ font-family:'JetBrains Mono', monospace; direction:ltr; unicode-bidi:plaintext; }
+
+  header{
+    border-bottom:1px solid var(--line);
+    padding:22px 28px;
+    display:flex; align-items:center; justify-content:space-between; gap:16px;
+    flex-wrap:wrap;
+    background:linear-gradient(180deg, rgba(255,255,255,0.015), transparent);
+  }
+  .brand{ display:flex; align-items:center; gap:12px; }
+  .brand svg{ flex-shrink:0; }
+  .brand h1{ font-size:17px; margin:0; font-weight:700; letter-spacing:0.2px; }
+  .brand p{ margin:2px 0 0; font-size:12.5px; color:var(--text-dim); }
+
+  .pulse-wrap{ display:flex; align-items:center; gap:10px; font-size:12.5px; color:var(--text-dim); }
+  .pulse{ width:8px; height:8px; border-radius:50%; background:var(--ok); position:relative; flex-shrink:0; }
+  .pulse::after{
+    content:""; position:absolute; inset:-4px; border-radius:50%;
+    border:1px solid var(--ok); animation:pulseRing 2.2s ease-out infinite;
+  }
+  @keyframes pulseRing{ 0%{ transform:scale(0.6); opacity:0.9;} 100%{ transform:scale(2.4); opacity:0; } }
+  @media (prefers-reduced-motion: reduce){ .pulse::after{ animation:none; } }
+
+  main{ max-width:920px; margin:0 auto; padding:26px 20px 60px; }
+
+  .search-row{ display:flex; gap:10px; margin-bottom:14px; }
+  .search-row input{
+    flex:1; background:var(--panel); border:1px solid var(--line); color:var(--text);
+    padding:12px 16px; border-radius:var(--radius); font-family:inherit; font-size:14.5px;
+    outline:none; transition:border-color .15s;
+  }
+  .search-row input:focus{ border-color:var(--amber-dim); }
+
+  .chips{ display:flex; flex-wrap:wrap; gap:8px; margin-bottom:22px; }
+  .chip{
+    font-size:12.5px; padding:6px 13px; border-radius:999px; border:1px solid var(--line);
+    background:var(--panel); color:var(--text-dim); cursor:pointer; user-select:none;
+    transition:all .15s; white-space:nowrap;
+  }
+  .chip:hover{ border-color:var(--amber-dim); color:var(--text); }
+  .chip.active{ background:rgba(242,182,50,0.12); border-color:var(--amber); color:var(--amber); }
+
+  .count-line{ font-size:12.5px; color:var(--text-dim); margin-bottom:18px; }
+  .count-line b{ color:var(--text); font-weight:600; }
+
+  .day-group{ margin-bottom:26px; }
+  .day-label{
+    font-size:12px; color:var(--text-dim); margin:0 0 10px 2px; font-weight:600;
+    display:flex; align-items:center; gap:8px;
+  }
+  .day-label::after{ content:""; flex:1; height:1px; background:var(--line); }
+
+  .card{
+    background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
+    padding:16px 18px; margin-bottom:10px; transition:border-color .15s, transform .15s;
+  }
+  .card:hover{ border-color:var(--amber-dim); }
+  .card a.title{
+    color:var(--text); text-decoration:none; font-size:15.5px; font-weight:600;
+    line-height:1.6; display:block; margin-bottom:8px;
+  }
+  .card a.title:hover{ color:var(--amber); }
+  .card .snippet{ font-size:13px; color:var(--text-dim); line-height:1.7; margin-bottom:12px; }
+  .meta-row{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; font-size:11.5px; color:var(--text-dim); }
+  .badge-source{
+    background:var(--panel-2); border:1px solid var(--line); padding:3px 10px; border-radius:6px;
+    font-weight:600; color:var(--text);
+  }
+  .badge-kw{
+    background:rgba(242,182,50,0.1); color:var(--amber); border:1px solid var(--amber-dim);
+    padding:2px 9px; border-radius:6px;
+  }
+  .time{ margin-inline-start:auto; }
+
+  .empty, .loading, .error{
+    text-align:center; padding:60px 20px; color:var(--text-dim); font-size:14px;
+  }
+  .error{ color:var(--err); }
+
+  footer{
+    max-width:920px; margin:0 auto; padding:0 20px 40px; color:var(--text-dim); font-size:11.5px;
+  }
+  .src-report{ display:flex; flex-wrap:wrap; gap:6px 14px; padding-top:14px; border-top:1px solid var(--line); }
+  .src-report span.ok::before{ content:"● "; color:var(--ok); }
+  .src-report span.error::before{ content:"● "; color:var(--err); }
+
+  @media (max-width:600px){
+    header{ padding:16px 18px; }
+    main{ padding:18px 14px 50px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <svg width="30" height="30" viewBox="0 0 24 24" fill="none">
+      <path d="M13 2L4 14h6l-1 8 9-12h-6l1-8z" fill="#f2b632"/>
+    </svg>
+    <div>
+      <h1>رصد اخبار</h1>
+      <p>برق منطقه‌ای یزد — پایش خودکار رسانه‌ها</p>
+    </div>
+  </div>
+  <div class="pulse-wrap">
+    <span class="pulse" id="pulseDot"></span>
+    <span id="lastUpdated">در حال بارگذاری...</span>
+  </div>
+</header>
+
+<main>
+  <div class="search-row">
+    <input type="text" id="searchInput" placeholder="جستجو در عنوان و متن خبرها..." />
+  </div>
+  <div class="chips" id="keywordChips"></div>
+  <div class="count-line" id="countLine"></div>
+  <div id="results"><div class="loading">در حال بارگذاری اخبار...</div></div>
+</main>
+
+<footer id="footer"></footer>
+
+<script>
+const DATA_URL = "data/results.json";
+let state = { data: null, activeKeyword: null, searchText: "" };
+
+function normalize(str){
+  return (str||"")
+    .replace(/\u064A/g, "ی")
+    .replace(/\u0643/g, "ک")
+    .replace(/\u200c/g, " ")
+    .toLowerCase();
+}
+
+function formatRelative(iso){
+  const d = new Date(iso);
+  const diffMs = Date.now() - d.getTime();
+  const mins = Math.round(diffMs/60000);
+  if (mins < 1) return "همین الان";
+  if (mins < 60) return `${mins} دقیقه پیش`;
+  const hours = Math.round(mins/60);
+  if (hours < 24) return `${hours} ساعت پیش`;
+  const days = Math.round(hours/24);
+  if (days < 30) return `${days} روز پیش`;
+  return d.toLocaleDateString('fa-IR');
+}
+
+function dayKey(iso){
+  const d = new Date(iso);
+  return d.toLocaleDateString('fa-IR', { year:'numeric', month:'long', day:'numeric' });
+}
+
+function timeStr(iso){
+  const d = new Date(iso);
+  return d.toLocaleTimeString('fa-IR', { hour:'2-digit', minute:'2-digit' });
+}
+
+function render(){
+  const { data } = state;
+  if (!data) return;
+
+  // chips
+  const chipsEl = document.getElementById('keywordChips');
+  chipsEl.innerHTML = '';
+  const allChip = document.createElement('div');
+  allChip.className = 'chip' + (state.activeKeyword === null ? ' active' : '');
+  allChip.textContent = 'همه';
+  allChip.onclick = () => { state.activeKeyword = null; render(); };
+  chipsEl.appendChild(allChip);
+  data.keywords.forEach(k => {
+    const el = document.createElement('div');
+    el.className = 'chip' + (state.activeKeyword === k ? ' active' : '');
+    el.textContent = k;
+    el.onclick = () => { state.activeKeyword = (state.activeKeyword === k ? null : k); render(); };
+    chipsEl.appendChild(el);
+  });
+
+  // filter
+  let items = data.items;
+  if (state.activeKeyword){
+    items = items.filter(i => i.matchedKeywords.includes(state.activeKeyword));
+  }
+  if (state.searchText.trim()){
+    const q = normalize(state.searchText);
+    items = items.filter(i => normalize(i.title + ' ' + i.snippet).includes(q));
+  }
+
+  document.getElementById('countLine').innerHTML = `<b>${items.length}</b> خبر`;
+
+  const resultsEl = document.getElementById('results');
+  if (items.length === 0){
+    resultsEl.innerHTML = '<div class="empty">هیچ خبری با این فیلتر پیدا نشد.</div>';
+    return;
+  }
+
+  // group by day
+  const groups = new Map();
+  items.forEach(item => {
+    const key = dayKey(item.pubDate);
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(item);
+  });
+
+  let html = '';
+  for (const [day, dayItems] of groups){
+    html += `<div class="day-group"><div class="day-label">${day}</div>`;
+    dayItems.forEach(item => {
+      html += `
+        <div class="card">
+          <a class="title" href="${item.link}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>
+          ${item.snippet ? `<div class="snippet">${escapeHtml(item.snippet)}</div>` : ''}
+          <div class="meta-row">
+            <span class="badge-source">${escapeHtml(item.source)}</span>
+            ${item.matchedKeywords.map(k => `<span class="badge-kw">${escapeHtml(k)}</span>`).join('')}
+            <span class="time mono">${timeStr(item.pubDate)} · ${formatRelative(item.pubDate)}</span>
+          </div>
+        </div>`;
+    });
+    html += `</div>`;
+  }
+  resultsEl.innerHTML = html;
+}
+
+function escapeHtml(s){
+  const d = document.createElement('div');
+  d.textContent = s || '';
+  return d.innerHTML;
+}
+
+async function load(){
+  try {
+    const res = await fetch(DATA_URL + '?t=' + Date.now());
+    if (!res.ok) throw new Error('فایل نتایج پیدا نشد');
+    const data = await res.json();
+    state.data = data;
+
+    const updated = new Date(data.lastUpdated);
+    document.getElementById('lastUpdated').textContent = `بروزرسانی: ${updated.toLocaleString('fa-IR')}`;
+
+    const footer = document.getElementById('footer');
+    const srcHtml = (data.sourceReport || []).map(s =>
+      `<span class="${s.status === 'ok' ? 'ok' : 'error'}">${escapeHtml(s.name)}${s.status !== 'ok' ? ' (خطا)' : ''}</span>`
+    ).join('');
+    footer.innerHTML = `<div class="src-report">${srcHtml}</div>`;
+
+    render();
+  } catch (err){
+    document.getElementById('pulseDot').style.background = 'var(--err)';
+    document.getElementById('lastUpdated').textContent = 'خطا در بارگذاری داده';
+    document.getElementById('results').innerHTML = `<div class="error">داده‌ای پیدا نشد. مطمئن شو که GitHub Action حداقل یک‌بار اجرا شده و فایل data/results.json ساخته شده.</div>`;
+  }
+}
+
+document.getElementById('searchInput').addEventListener('input', (e) => {
+  state.searchText = e.target.value;
+  render();
+});
+
+load();
+</script>
+</body>
+</html>
