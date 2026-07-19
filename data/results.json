@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-07-19T13:24:41.214Z",
+  "lastUpdated": "2026-07-19T16:00:13.930Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 28,
+  "totalItems": 29,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "مهر",
@@ -26,29 +26,29 @@
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
       "found": 0
     },
     {
       "name": "فارس",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 3
+      "found": 0
     },
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 3
+      "found": 4
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
       "found": 0
     },
     {
@@ -64,6 +64,16 @@
     }
   ],
   "items": [
+    {
+      "title": "خاموشی‌ها، افزایش مصرف برق و یک راهکار که توجه سازندگان و مالکان خانه را جلب کرده است",
+      "link": "https://www.asriran.com/fa/news/1178574/خاموشی-ها-افزایش-مصرف-برق-و-یک-راهکار-که-توجه-سازندگان-و-مالکان-خانه-را-جلب-کرده-است",
+      "source": "عصر ایران",
+      "pubDate": "2026-07-19T14:00:01.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "در گذشته، استفاده از انرژی خورشیدی بیشتر در پروژه‌های صنعتی یا نیروگاه‌های بزرگ دیده می‌شد؛ اما توسعه فناوری، افزایش بازده تجهیزات و ایجاد مدل‌های جدید تأمین مالی باعث شده این فناوری برای ساختمان‌های مسکونی نیز در دسترس‌تر شود."
+    },
     {
       "title": "حمله مجدد به نیروگاه برق و آب‌شیرین‌کن کویت",
       "link": "https://www.khabaronline.ir/news/2248537/%D8%AD%D9%85%D9%84%D9%87-%D9%85%D8%AC%D8%AF%D8%AF-%D8%A8%D9%87-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D8%A8%D8%B1%D9%82-%D9%88-%D8%A2%D8%A8-%D8%B4%DB%8C%D8%B1%DB%8C%D9%86-%DA%A9%D9%86-%DA%A9%D9%88%DB%8C%D8%AA",
