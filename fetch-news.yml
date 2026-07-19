@@ -1,0 +1,40 @@
+name: بروزرسانی رصد اخبار
+
+on:
+  schedule:
+    # هر ۳ ساعت یک‌بار اجرا می‌شه (زمان UTC)
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {} # اجرای دستی از تب Actions در گیت‌هاب
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: دریافت کد
+        uses: actions/checkout@v4
+
+      - name: نصب Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: نصب پکیج‌ها
+        run: npm install
+
+      - name: اجرای اسکریپت جستجوی اخبار
+        run: node scripts/fetch-news.js
+
+      - name: ذخیره تغییرات در ریپازیتوری
+        run: |
+          git config user.name "news-watcher-bot"
+          git config user.email "actions@github.com"
+          git add data/results.json
+          if ! git diff --cached --quiet; then
+            git commit -m "بروزرسانی خودکار اخبار $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "تغییری در نتایج نبود."
+          fi
