@@ -1,45 +1,44 @@
 {
-  "lastUpdated": "2026-07-20T19:47:29.713Z",
+  "lastUpdated": "2026-07-20T22:03:19.153Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 71,
+  "totalItems": 74,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 3
+      "found": 1
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 2
+      "found": 0
     },
     {
       "name": "مهر",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
       "found": 0
     },
     {
       "name": "فارس",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
       "found": 0
     },
     {
       "name": "خبرآنلاین",
-      "status": "error",
-      "error": "Request timed out after 15000ms",
-      "found": 0
+      "status": "ok",
+      "found": 2
     },
     {
       "name": "عصر ایران",
@@ -49,23 +48,42 @@
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
       "name": "اقتصادنیوز",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Status code 404",
       "found": 0
     },
     {
       "name": "تابناک",
-      "status": "error",
-      "error": "Request timed out after 15000ms",
-      "found": 0
+      "status": "ok",
+      "found": 2
     }
   ],
   "items": [
+    {
+      "title": "هر خانه؛ سنگری برای صرفه‌جویی در انرژی",
+      "link": "https://www.mehrnews.com/news/6892995/%D9%87%D8%B1-%D8%AE%D8%A7%D9%86%D9%87-%D8%B3%D9%86%DA%AF%D8%B1%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%86%D8%B1%DA%98%DB%8C",
+      "source": "مهر",
+      "pubDate": "2026-07-20T21:07:31.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "کرج _ گرمای تابستان، مصرف انرژی را افزایش داده است. در یکصدوچهل‌ویکمین شب تجمعات مردمی، از شهروندان پرسیدیم هر کدام از ما چگونه می‌توانیم با صرفه‌جویی، به حفظ آب و برق کشور کمک کنیم."
+    },
+    {
+      "title": "طرح تولید برق از زباله در نوشهر اجرا می شود",
+      "link": "https://www.khabaronline.ir/photo/2249232/%D8%B7%D8%B1%D8%AD-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%A8%D8%B1%D9%82-%D8%A7%D8%B2-%D8%B2%D8%A8%D8%A7%D9%84%D9%87-%D8%AF%D8%B1-%D9%86%D9%88%D8%B4%D9%87%D8%B1-%D8%A7%D8%AC%D8%B1%D8%A7-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "source": "خبرآنلاین",
+      "pubDate": "2026-07-20T19:51:53.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "شهردار نوشهر از اجرای طرح تولید برق از زباله برای نخستین بار در شمال کشور خبر داد."
+    },
     {
       "title": "سفارت ایران در فرانسه: نادیده گرفتن حقوق و منافع ایران امنیت تنگه هرمز را تضمین نمی‌کند",
       "link": "https://www.irna.ir/news/86214758/%D8%B3%D9%81%D8%A7%D8%B1%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-%D9%86%D8%A7%D8%AF%DB%8C%D8%AF%D9%87-%DA%AF%D8%B1%D9%81%D8%AA%D9%86-%D8%AD%D9%82%D9%88%D9%82-%D9%88-%D9%85%D9%86%D8%A7%D9%81%D8%B9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D9%85%D9%86%DB%8C%D8%AA",
@@ -85,6 +103,16 @@
         "برق"
       ],
       "snippet": "پزشکیان: هرکسی برای پیشرفت کشور کاری می‌تواند انجام بدهد باید انجام بدهد. منابعی که در کشورمان وجود دارد استثنایی است. این وضعیت برازنده ما مسلمانان نیست. ضرورت دارد برق و گاز را درست مصرف کنیم."
+    },
+    {
+      "title": "نامه تاجگردون به رئیس جمهور درباره برنامه هفتم توسعه + جزئیات",
+      "link": "https://www.khabaronline.ir/news/2249019/%D9%86%D8%A7%D9%85%D9%87-%D8%AA%D8%A7%D8%AC%DA%AF%D8%B1%D8%AF%D9%88%D9%86-%D8%A8%D9%87-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%87%D9%81%D8%AA%D9%85-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AC%D8%B2%D8%A6%DB%8C%D8%A7%D8%AA",
+      "source": "خبرآنلاین",
+      "pubDate": "2026-07-20T19:33:00.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "رئیس کمیسیون برنامه و بودجه مجلس نوشت: با توجه به مسئولیت قانونی کمیسیون برنامه، بودجه و محاسبات در تلفیق گزارش نظارتی مجلس، هماهنگی لازم میان دولت، سازمان برنامه و بودجه و کمیسیون، از ابتدای فرآیند تدوین گزارش و اصلاحات پیشنهادی برقرار شود تا بررسی گزارش عملکرد و رسیدگی به اصلاح قانون به صورت همزما"
     },
     {
       "title": "بارش شدید باران، رعد و برق و باد‌های شدید شانگهای را درنوردید",
