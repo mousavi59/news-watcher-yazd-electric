@@ -1,22 +1,23 @@
 {
-  "lastUpdated": "2026-07-20T14:13:15.740Z",
+  "lastUpdated": "2026-07-20T16:26:46.000Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 60,
+  "totalItems": 62,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "ایسنا",
-      "status": "ok",
-      "found": 1
+      "status": "error",
+      "error": "Request timed out after 15000ms",
+      "found": 0
     },
     {
       "name": "مهر",
@@ -26,7 +27,7 @@
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
       "found": 0
     },
     {
@@ -38,33 +39,55 @@
     {
       "name": "خبرآنلاین",
       "status": "error",
-      "error": "getaddrinfo EAI_AGAIN www.khabaronline.ir",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
       "name": "عصر ایران",
-      "status": "ok",
-      "found": 4
+      "status": "error",
+      "error": "Request timed out after 15000ms",
+      "found": 0
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
       "name": "اقتصادنیوز",
       "status": "error",
-      "error": "Status code 404",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
       "name": "تابناک",
-      "status": "ok",
-      "found": 2
+      "status": "error",
+      "error": "Request timed out after 15000ms",
+      "found": 0
     }
   ],
   "items": [
+    {
+      "title": "قائم پناه: معیشت مردم را حتی با وجود ادامه جنگ تامین می‌کنیم",
+      "link": "https://www.mehrnews.com/news/6893996/%D9%82%D8%A7%D8%A6%D9%85-%D9%BE%D9%86%D8%A7%D9%87-%D9%85%D8%B9%DB%8C%D8%B4%D8%AA-%D9%85%D8%B1%D8%AF%D9%85-%D8%B1%D8%A7-%D8%AD%D8%AA%DB%8C-%D8%A8%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D8%AC%D9%86%DA%AF-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
+      "source": "مهر",
+      "pubDate": "2026-07-20T16:25:07.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "اهواز - معاون اجرایی رئیس جمهور گفت: اگر جنگ هم ادامه پیدا کند نیز آب، برق و گاز را تا حد امکان برای مردم فراهم و معیشت مردم را تامین می کنیم."
+    },
+    {
+      "title": "وزیر نیرو: کاهش خاموشی برق مناطق آسیب دیده از جنگ مدنظر است",
+      "link": "https://www.irna.ir/news/86214629/%D9%88%D8%B2%DB%8C%D8%B1-%D9%86%DB%8C%D8%B1%D9%88-%DA%A9%D8%A7%D9%87%D8%B4-%D8%AE%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%D8%A8%D8%B1%D9%82-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A2%D8%B3%DB%8C%D8%A8-%D8%AF%DB%8C%D8%AF%D9%87-%D8%A7%D8%B2-%D8%AC%D9%86%DA%AF-%D9%85%D8%AF%D9%86%D8%B8%D8%B1-%D8%A7%D8%B3%D8%AA",
+      "source": "ایرنا",
+      "pubDate": "2026-07-20T15:33:54.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "اهواز - ایرنا -  وزیر نیرو ضمن قدردانی از مدیریت مصرف برق در استان خوزستان تاکید کرد که کاهش خاموشی برق مناطق آسیب دیده از جنگ در اولویت است."
+    },
     {
       "title": "توسعه خدمات هوایی در ایام اربعین؛ اختصاص پروازهای فوق‌العاده اراک-نجف",
       "link": "https://www.mehrnews.com/news/6893884/%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%A7%D9%85-%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87",
