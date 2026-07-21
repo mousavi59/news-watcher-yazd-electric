@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-21T14:00:33.769Z",
+  "lastUpdated": "2026-07-21T16:25:06.767Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 96,
+  "totalItems": 99,
   "sourceReport": [
     {
       "name": "ایرنا",
@@ -22,18 +22,18 @@
     {
       "name": "مهر",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
       "name": "فارس",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
       "found": 0
     },
     {
@@ -44,12 +44,12 @@
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 5
+      "found": 3
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
@@ -65,6 +65,36 @@
     }
   ],
   "items": [
+    {
+      "title": "ببینید | وزیر راه کجاست وقتی کارکنان راه آهن ۲۴ ساعته، ریل بمباران شده بندرعباس را بازگشایی کردند؟",
+      "link": "https://www.khabaronline.ir/news/2249587/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D9%88%D8%B2%DB%8C%D8%B1-%D8%B1%D8%A7%D9%87-%DA%A9%D8%AC%D8%A7%D8%B3%D8%AA-%D9%88%D9%82%D8%AA%DB%8C-%DA%A9%D8%A7%D8%B1%DA%A9%D9%86%D8%A7%D9%86-%D8%B1%D8%A7%D9%87-%D8%A2%D9%87%D9%86-%DB%B2%DB%B4-%D8%B3%D8%A7%D8%B9%D8%AA%D9%87-%D8%B1%DB%8C%D9%84-%D8%A8%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D9%86",
+      "source": "خبرآنلاین",
+      "pubDate": "2026-07-21T16:00:00.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "بامداد ۲۶ تیرماه ایستگاه انشعاب راه آهن بندرعباس از سوی آمریکا مورد هدف قرار گرفت. کارکنان راه آهن در حالی که پهپادهای دشمن همچنان در آسمان حضور داشتند در دمای بیش از ۵۰ درجه؛ با تجهیزات داغ و سوزان؛ بار دیگر این خط ریلی را سروسامان دادند تا خدمات جابجایی مسافران از ۲۷ تیرماه برقرار گردد. فرزانه صاد"
+    },
+    {
+      "title": "امضای تفاهم دانشگاه کردستان و شرکت برق برای توسعه همکاری‌های علمی",
+      "link": "https://www.mehrnews.com/news/6895106/%D8%A7%D9%85%D8%B6%D8%A7%DB%8C-%D8%AA%D9%81%D8%A7%D9%87%D9%85-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A8%D8%B1%D9%82-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%D9%85%DB%8C",
+      "source": "مهر",
+      "pubDate": "2026-07-21T15:55:17.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "سنندج- دانشگاه کردستان و شرکت توزیع نیروی برق استان با امضای تفاهم‌نامه‌ای، همکاری‌های مشترک خود را در حوزه‌های پژوهشی، آموزشی و فناورانه گسترش دادند."
+    },
+    {
+      "title": "وعده وزیر نیرو برای جمع شدن بساط خاموشی‌ها تا نیمه شهریورماه",
+      "link": "https://www.asriran.com/fa/news/1179149/وعده-وزیر-نیرو-برای-جمع-شدن-بساط-خاموشی-ها-تا-نیمه-شهریورماه",
+      "source": "عصر ایران",
+      "pubDate": "2026-07-21T15:47:30.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "وزیر نیرو از برنامه‌ریزی کلان برای جمع شدن بساط خاموشی‌ها تا نیمه شهریورماه خبر داد. عباس علی‌آبادی با تشریح شرایط اضطرار و آسیب‌های وارده به تاسیسات، از تلاش‌های شبانه‌روزی برای پایداری شبکه برق کشور سخن گفت."
+    },
     {
       "title": "هدف‌گذاری ساخت ۱۰۰ گیگاوات نیروگاه تجدیدپذیر در ایران/شبکه برق نیازمند تحول شد",
       "link": "https://www.khabaronline.ir/live/2249454/%D9%87%D8%AF%D9%81-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%DB%B1%DB%B0%DB%B0-%DA%AF%DB%8C%DA%AF%D8%A7%D9%88%D8%A7%D8%AA-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D8%AA%D8%AC%D8%AF%DB%8C%D8%AF%D9%BE%D8%B0%DB%8C%D8%B1-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B4%D8%A8%DA%A9%D9%87-%D8%A8%D8%B1%D9%82",
