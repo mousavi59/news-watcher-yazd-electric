@@ -1,38 +1,38 @@
 {
-  "lastUpdated": "2026-07-22T08:34:25.193Z",
+  "lastUpdated": "2026-07-22T11:12:11.477Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 123,
+  "totalItems": 127,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 5
+      "found": 0
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "مهر",
       "status": "ok",
-      "found": 1
+      "found": 2
     },
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Status code 502",
       "found": 0
     },
     {
       "name": "فارس",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
@@ -43,12 +43,12 @@
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 2
+      "found": 3
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
       "found": 0
     },
     {
@@ -64,6 +64,46 @@
     }
   ],
   "items": [
+    {
+      "title": "بن فرحان: استفاده از قدرت نظامی نمی‌تواند ثبات پایدار برقرار کند",
+      "link": "https://www.mehrnews.com/news/6895942/%D8%A8%D9%86-%D9%81%D8%B1%D8%AD%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%82%D8%AF%D8%B1%D8%AA-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D9%86%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D8%AB%D8%A8%D8%A7%D8%AA-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B1%D9%82%D8%B1%D8%A7%D8%B1",
+      "source": "مهر",
+      "pubDate": "2026-07-22T11:06:51.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "وزیر خارجه عربستان گفت: هیچ جایگزینی برای دیپلماسی وجود ندارد و استفاده از قدرت نظامی به تنهایی نمی‌تواند ثبات پایدار ایجاد کند."
+    },
+    {
+      "title": "شناسایی ۵۷۲۶ برق غیرمجاز در استان آذربایجان‌غربی از ابتدای اجرای طرح ملی مهتاب",
+      "link": "https://www.khabaronline.ir/news/2250024/%D8%B4%D9%86%D8%A7%D8%B3%D8%A7%DB%8C%DB%8C-%DB%B5%DB%B7%DB%B2%DB%B6-%D8%A8%D8%B1%D9%82-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C",
+      "source": "خبرآنلاین",
+      "pubDate": "2026-07-22T11:05:18.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "۵۷۲۶ برق غیرمجاز در استان آذربایجان‌غربی از ابتدای اجرای طرح ملی مهتاب شناسایی شده است."
+    },
+    {
+      "title": "افزایش یکباره قیمت برق صنایع، تولید را زیان‌ده می‌کند",
+      "link": "https://www.mehrnews.com/news/6895833/%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%8C%DA%A9%D8%A8%D8%A7%D8%B1%D9%87-%D9%82%DB%8C%D9%85%D8%AA-%D8%A8%D8%B1%D9%82-%D8%B5%D9%86%D8%A7%DB%8C%D8%B9-%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B1%D8%A7-%D8%B2%DB%8C%D8%A7%D9%86-%D8%AF%D9%87-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+      "source": "مهر",
+      "pubDate": "2026-07-22T10:58:01.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "معاون وزیر صمت گفت: افزایش قیمت برق صنایع باید منطقی و متناسب با شرایط صنعت باشد؛ ضمن اینکه افزایش قیمت یکباره باعث زیاندهی صنایع می‌شود."
+    },
+    {
+      "title": "مرگ تلخ بازیگر سرشناس آمریکایی در تصادف رانندگی",
+      "link": "https://www.asriran.com/fa/news/1179274/مرگ-تلخ-بازیگر-سرشناس-آمریکایی-در-تصادف-رانندگی",
+      "source": "عصر ایران",
+      "pubDate": "2026-07-22T08:33:42.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "هاتل به خاطر نقش «جیا»، یک یتیم ناشنوا که با کونگ پیوندی عمیق برقرار می‌کند، در فیلم ماجراجویی و پرفروش «گودزیلا در برابر کونگ» شناخته می‌شد. او در این فیلم در کنار ربکا هال بازی کرد که نقش مادر خوانده او را ایفا می‌کرد."
+    },
     {
       "title": "هشدار هواشناسی زنجان نسبت به وقوع رگبار و رعد و برق",
       "link": "https://www.irna.ir/news/86216312/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%87%D9%88%D8%A7%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-%D9%86%D8%B3%D8%A8%D8%AA-%D8%A8%D9%87-%D9%88%D9%82%D9%88%D8%B9-%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D9%88-%D8%B1%D8%B9%D8%AF-%D9%88-%D8%A8%D8%B1%D9%82",
