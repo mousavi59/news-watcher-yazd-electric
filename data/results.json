@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-23T19:23:58.062Z",
+  "lastUpdated": "2026-07-23T22:07:38.020Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 198,
+  "totalItems": 199,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 3
+      "found": 0
     },
     {
       "name": "ایسنا",
@@ -21,12 +21,12 @@
     {
       "name": "مهر",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
       "found": 0
     },
     {
@@ -38,12 +38,12 @@
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 3
+      "found": 2
     },
     {
       "name": "صدا و سیما",
@@ -64,6 +64,16 @@
     }
   ],
   "items": [
+    {
+      "title": "المیادین: حمله به نیروگاه برق کویت بخشی از عملیات «پرچم دروغین» رژیم صهیونیستی است",
+      "link": "https://www.isna.ir/news/1405050100462/%D8%A7%D9%84%D9%85%DB%8C%D8%A7%D8%AF%DB%8C%D9%86-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D8%A8%D8%B1%D9%82-%DA%A9%D9%88%DB%8C%D8%AA-%D8%A8%D8%AE%D8%B4%DB%8C-%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D9%BE%D8%B1%DA%86%D9%85-%D8%AF%D8%B1%D9%88%D8%BA%DB%8C%D9%86",
+      "source": "ایسنا",
+      "pubDate": "2026-07-23T20:10:23.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "شبکه المیادین به نقل از یک منبع ارشد امنیتی ـ سیاسی ایران گزارش‌های منتشرشده درباره حمله ایران به یک نیروگاه برق در کویت را رد کرد و آن را بخشی از عملیات «پرچم دروغین» رژیم صهیونیستی با هدف تحریف واقعیت‌های میدانی توصیف کرد."
+    },
     {
       "title": "فرماندار اراک: باند سارقان کابل‌های برق در اراک متلاشی شد",
       "link": "https://www.irna.ir/news/86217683/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%A7%D8%B1%D8%A7%DA%A9-%D8%A8%D8%A7%D9%86%D8%AF-%D8%B3%D8%A7%D8%B1%D9%82%D8%A7%D9%86-%DA%A9%D8%A7%D8%A8%D9%84-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%D8%A7%D8%B1%D8%A7%DA%A9-%D9%85%D8%AA%D9%84%D8%A7%D8%B4%DB%8C-%D8%B4%D8%AF",
