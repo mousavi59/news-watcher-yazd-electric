@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-07-28T08:39:28.377Z",
+  "lastUpdated": "2026-07-28T11:21:31.583Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 345,
+  "totalItems": 347,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "مهر",
@@ -32,13 +32,13 @@
     {
       "name": "فارس",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 2736\nChar: >",
       "found": 0
     },
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "عصر ایران",
@@ -60,10 +60,30 @@
     {
       "name": "تابناک",
       "status": "ok",
-      "found": 1
+      "found": 2
     }
   ],
   "items": [
+    {
+      "title": "وزش باد شدید و گرد و خاک در ۱۷ استان/ رگبار و رعد و برق در جنوب کشور",
+      "link": "https://www.isna.ir/news/1405050603596/%D9%88%D8%B2%D8%B4-%D8%A8%D8%A7%D8%AF-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%88-%DA%AF%D8%B1%D8%AF-%D9%88-%D8%AE%D8%A7%DA%A9-%D8%AF%D8%B1-%DB%B1%DB%B7-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D9%88-%D8%B1%D8%B9%D8%AF-%D9%88-%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%D8%AC%D9%86%D9%88%D8%A8",
+      "source": "ایسنا",
+      "pubDate": "2026-07-28T11:06:00.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "سازمان هواشناسی نسبت به وزش باد شدید و گرد و خاک در ۱۷ استان و وقوع رگبار و رعدو برق در دو استان جنوب کشور هشدار داد."
+    },
+    {
+      "title": "لحظات وقوع زلزله مهیب در ژاپن",
+      "link": "https://www.tabnak.ir/fa/news/1386948/لحظات-وقوع-زلزله-مهیب-در-ژاپن",
+      "source": "تابناک",
+      "pubDate": "2026-07-28T08:59:36.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "زمین‌لرزه‌ای به بزرگی اولیه 7.1 ریشتر امروز استان کوماموتو در جنوب ژاپن را لرزاند و موجب قطع برق چهل هزار مشترک، توقف خدمات ریلی و صدور هشدار سونامی و پس‌لرزه از سوی مقام‌های این کشور شد."
+    },
     {
       "title": "پیگیری توسعه همکاری‌های حمل‌ونقل، انرژی و زیرساخت‌ها میان ایران و ترکمنستان",
       "link": "https://www.irna.ir/news/86221719/%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AD%D9%85%D9%84-%D9%88%D9%86%D9%82%D9%84-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D9%88-%D8%B2%DB%8C%D8%B1%D8%B3%D8%A7%D8%AE%D8%AA-%D9%87%D8%A7-%D9%85%DB%8C%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
