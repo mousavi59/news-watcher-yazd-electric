@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-07-29T14:18:31.686Z",
+  "lastUpdated": "2026-07-29T16:24:30.479Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 376,
+  "totalItems": 378,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "مهر",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "تسنیم",
@@ -32,18 +32,18 @@
     {
       "name": "فارس",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 2772\nChar: >",
+      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
       "found": 0
     },
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 2
+      "found": 0
     },
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 7
+      "found": 6
     },
     {
       "name": "صدا و سیما",
@@ -64,6 +64,26 @@
     }
   ],
   "items": [
+    {
+      "title": "راز پنهان برج خورشید در چین؛ تقاطع هندسه صدف و همگامی با خورشید (+عکس)",
+      "link": "https://www.asriran.com/fa/news/1180901/راز-پنهان-برج-خورشید-در-چین-تقاطع-هندسه-صدف-و-همگامی-با-خورشید-عکس",
+      "source": "عصر ایران",
+      "pubDate": "2026-07-29T16:07:30.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "این سازه ساحلی بی‌نظیر با استفاده از ترازهای دقیق خورشیدی و سیستم تهویه غیرفعال، پیوندی تماشایی میان معماری مدرن و چرخه‌های طبیعی برقرار می‌کند."
+    },
+    {
+      "title": "دستگیری ۲ سارق سابقه‌دار سیم و کابل برق و باغات در شاهرود",
+      "link": "https://www.mehrnews.com/news/6903201/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%DB%B2-%D8%B3%D8%A7%D8%B1%D9%82-%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D8%AF%D8%A7%D8%B1-%D8%B3%DB%8C%D9%85-%D9%88-%DA%A9%D8%A7%D8%A8%D9%84-%D8%A8%D8%B1%D9%82-%D9%88-%D8%A8%D8%A7%D8%BA%D8%A7%D8%AA-%D8%AF%D8%B1-%D8%B4%D8%A7%D9%87%D8%B1%D9%88%D8%AF",
+      "source": "مهر",
+      "pubDate": "2026-07-29T15:54:33.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "شاهرود- فرمانده انتظامی شاهرود از دستگیری دو سارق سابقه‌دار طی عملیات‌های جداگانه پلیس خبر داد و گفت: این متهمان در مجموع به ۹ فقره سرقت سیم و کابل برق و اموال باغات اعتراف کردند."
+    },
     {
       "title": "خنیاگران خیام با «مهرگان» آمدند؛ شنیدن ظرافت‌های موسیقی خراسان",
       "link": "https://www.khabaronline.ir/news/2253226/%D8%AE%D9%86%DB%8C%D8%A7%DA%AF%D8%B1%D8%A7%D9%86-%D8%AE%DB%8C%D8%A7%D9%85-%D8%A8%D8%A7-%D9%85%D9%87%D8%B1%DA%AF%D8%A7%D9%86-%D8%A2%D9%85%D8%AF%D9%86%D8%AF-%D8%B4%D9%86%DB%8C%D8%AF%D9%86-%D8%B8%D8%B1%D8%A7%D9%81%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86",
