@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-30T11:10:22.732Z",
+  "lastUpdated": "2026-07-30T14:10:06.002Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 408,
+  "totalItems": 409,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "ایسنا",
@@ -21,12 +21,12 @@
     {
       "name": "مهر",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 3
+      "found": 0
     },
     {
       "name": "عصر ایران",
@@ -48,7 +48,7 @@
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Status code 403",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
@@ -64,6 +64,16 @@
     }
   ],
   "items": [
+    {
+      "title": "همه باید در مصرف انرژی و آب صرفه‌جویی کنیم",
+      "link": "https://www.mehrnews.com/news/6903906/%D9%87%D9%85%D9%87-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%85%D8%B5%D8%B1%D9%81-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D9%88-%D8%A2%D8%A8-%D8%B5%D8%B1%D9%81%D9%87-%D8%AC%D9%88%DB%8C%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
+      "source": "مهر",
+      "pubDate": "2026-07-30T13:30:38.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "اردبیل - استاندار اردبیل گفت: با توجه به ابلاغیه دولت به سراسر کشور، همه باید در مصرف کلیه منابع در حوزه‌های برق، سوخت و آب شرب صرفه.جویی کنیم."
+    },
     {
       "title": "کشف ژنراتور برق قاچاق ۳۰ میلیارد ریالی در پارسیان",
       "link": "https://www.khabaronline.ir/news/2253758/%DA%A9%D8%B4%D9%81-%DA%98%D9%86%D8%B1%D8%A7%D8%AA%D9%88%D8%B1-%D8%A8%D8%B1%D9%82-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF-%D8%B1%DB%8C%D8%A7%D9%84%DB%8C-%D8%AF%D8%B1-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86",
