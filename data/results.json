@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-08-02T21:58:35.071Z",
+  "lastUpdated": "2026-08-03T03:20:35.609Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 504,
+  "totalItems": 506,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "ایسنا",
@@ -21,12 +21,12 @@
     {
       "name": "مهر",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
       "found": 0
     },
     {
@@ -38,7 +38,7 @@
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "عصر ایران",
@@ -48,7 +48,7 @@
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
@@ -64,6 +64,26 @@
     }
   ],
   "items": [
+    {
+      "title": "جعفری: رگبار و رعدوبرق پراکنده مهمان امروز آسمان گلستان می‌شود",
+      "link": "https://www.mehrnews.com/news/6906842/%D8%AC%D8%B9%D9%81%D8%B1%DB%8C-%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D9%88-%D8%B1%D8%B9%D8%AF%D9%88%D8%A8%D8%B1%D9%82-%D9%BE%D8%B1%D8%A7%DA%A9%D9%86%D8%AF%D9%87-%D9%85%D9%87%D9%85%D8%A7%D9%86-%D8%A7%D9%85%D8%B1%D9%88%D8%B2-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "source": "مهر",
+      "pubDate": "2026-08-03T02:50:00.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "گرگان- کارشناس هواشناسی گلستان از نفوذ جریانات مرطوب به استان خبر داد و گفت: این شرایط، احتمال وقوع رگبار و رعدوبرق پراکنده و وزش باد نسبتاً شدید موقتی در برخی مناطق را افزایش می‌دهد."
+    },
+    {
+      "title": "رگبار باران و رعدوبرق در ۱۰ استان",
+      "link": "https://www.irna.ir/news/86226479/%D8%B1%DA%AF%D8%A8%D8%A7%D8%B1-%D8%A8%D8%A7%D8%B1%D8%A7%D9%86-%D9%88-%D8%B1%D8%B9%D8%AF%D9%88%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%DB%B1%DB%B0-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86",
+      "source": "ایرنا",
+      "pubDate": "2026-08-03T02:47:24.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "تهران- ایرنا- سازمان هواشناسی امروز (دوشنبه) برای ۷ استان واقع در نوار شمالی و سه استان جنوب شرق کشور، رگبار باران و رعدوبرق پیش‌بینی کرد."
+    },
     {
       "title": "وعده مهم کمیسیون انرژی درباره پایان قطعی برق خانگی از اول مهر/ قطعی برق چه زمانی تمام می‌شود؟",
       "link": "https://www.khabaronline.ir/news/2255290/%D9%88%D8%B9%D8%AF%D9%87-%D9%85%D9%87%D9%85-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D9%86%D8%B1%DA%98%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%82%D8%B7%D8%B9%DB%8C-%D8%A8%D8%B1%D9%82-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%A7%D8%B2-%D8%A7%D9%88%D9%84-%D9%85%D9%87%D8%B1",
