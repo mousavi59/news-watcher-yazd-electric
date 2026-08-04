@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-03T22:11:15.592Z",
+  "lastUpdated": "2026-08-04T02:49:54.617Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 536,
+  "totalItems": 537,
   "sourceReport": [
     {
       "name": "ایرنا",
@@ -16,17 +16,17 @@
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "مهر",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
@@ -43,12 +43,12 @@
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 2
+      "found": 3
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
       "found": 0
     },
     {
@@ -64,6 +64,16 @@
     }
   ],
   "items": [
+    {
+      "title": "علامت D کنار پورت USB چه کاربردی دارد؟",
+      "link": "https://www.asriran.com/fa/news/1182044/علامت-d-کنار-پورت-usb-چه-کاربردی-دارد",
+      "source": "عصر ایران",
+      "pubDate": "2026-08-04T00:30:02.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "اگر کنار درگاه USB-C لپ‌تاپ یا مانیتور خود علامتی شبیه حرف D دیده‌اید، این نماد به قابلیت DisplayPort Alt Mode اشاره دارد؛ فناوری‌ای که امکان انتقال هم‌زمان تصویر و صدا داده و حتی برق را تنها از طریق یک کابل USB-C فراهم می‌کند و اتصال نمایشگرهای خارجی را بسیار ساده‌تر می‌سازد."
+    },
     {
       "title": "ببینید | قطع سراسری برق در کوبا",
       "link": "https://www.khabaronline.ir/news/2255668/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D9%82%D8%B7%D8%B9-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1%DB%8C-%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%DA%A9%D9%88%D8%A8%D8%A7",
