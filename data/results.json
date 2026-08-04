@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-04T11:27:12.200Z",
+  "lastUpdated": "2026-08-04T14:23:36.596Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 546,
+  "totalItems": 549,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "مهر",
       "status": "ok",
-      "found": 0
+      "found": 2
     },
     {
       "name": "تسنیم",
@@ -43,12 +43,12 @@
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
       "found": 0
     },
     {
@@ -59,12 +59,41 @@
     },
     {
       "name": "تابناک",
-      "status": "error",
-      "error": "Request timed out after 15000ms",
-      "found": 0
+      "status": "ok",
+      "found": 1
     }
   ],
   "items": [
+    {
+      "title": "نتایج دومین لیگ نظام پیشنهادهای شرکت توانیر اعلام شد",
+      "link": "https://www.mehrnews.com/news/6908285/%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D9%84%DB%8C%DA%AF-%D9%86%D8%B8%D8%A7%D9%85-%D9%BE%DB%8C%D8%B4%D9%86%D9%87%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%AA%D9%88%D8%A7%D9%86%DB%8C%D8%B1-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF",
+      "source": "مهر",
+      "pubDate": "2026-08-04T13:36:54.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "نتایج دومین لیگ نظام پیشنهادات شرکت توانیر که با هدف شناسایی راهکارهای نوین برای بهینه‌سازی هزینه‌های بهره‌برداری و نگهداری شبکه برق کشور برگزار شده بود، اعلام شد."
+    },
+    {
+      "title": "پایداری یکی از مهم‌ترین زیرساخت‌های کشور در عصر ناترازی و گذار انرژی",
+      "link": "https://www.mehrnews.com/news/6908280/%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D9%85%D9%87%D9%85-%D8%AA%D8%B1%DB%8C%D9%86-%D8%B2%DB%8C%D8%B1%D8%B3%D8%A7%D8%AE%D8%AA-%D9%87%D8%A7%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1-%D8%B9%D8%B5%D8%B1-%D9%86%D8%A7%D8%AA%D8%B1%D8%A7%D8%B2%DB%8C-%D9%88-%DA%AF%D8%B0%D8%A7%D8%B1",
+      "source": "مهر",
+      "pubDate": "2026-08-04T13:36:31.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "مدیرعامل شرکت مدیریت شبکه برق ایران، حفظ پایداری شبکه سراسری برق کشور را مسئولیتی ملی دانست."
+    },
+    {
+      "title": "اجرای موفقیت‌آمیز طرح ویژه تامین برق عراق در ایام اربعین",
+      "link": "https://www.irna.ir/news/86227867/%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D9%85%D9%88%D9%81%D9%82%DB%8C%D8%AA-%D8%A2%D9%85%DB%8C%D8%B2-%D8%B7%D8%B1%D8%AD-%D9%88%DB%8C%DA%98%D9%87-%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%A8%D8%B1%D9%82-%D8%B9%D8%B1%D8%A7%D9%82-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%A7%D9%85-%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86",
+      "source": "ایرنا",
+      "pubDate": "2026-08-04T13:28:29.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "تهران- ایرنا- وزارت برق عراق در بیانیه ای از اجرای موفقیت آمیز طرح ویژه تامین برق در ایام مراسم اربعین و پایدار ماندن کامل شبکه سراسری خبر داد."
+    },
     {
       "title": "آغاز انتقال رایگان زائران اتباع خارجی به مرز چذابه",
       "link": "https://www.isna.ir/news/1405051307825/%D8%A2%D8%BA%D8%A7%D8%B2-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B2%D8%A7%D8%A6%D8%B1%D8%A7%D9%86-%D8%A7%D8%AA%D8%A8%D8%A7%D8%B9-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D8%A8%D9%87-%D9%85%D8%B1%D8%B2-%DA%86%D8%B0%D8%A7%D8%A8%D9%87",
