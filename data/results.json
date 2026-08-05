@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-05T19:40:22.332Z",
+  "lastUpdated": "2026-08-05T22:14:41.910Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 593,
+  "totalItems": 596,
   "sourceReport": [
     {
       "name": "ایرنا",
@@ -21,7 +21,7 @@
     {
       "name": "مهر",
       "status": "ok",
-      "found": 1
+      "found": 2
     },
     {
       "name": "تسنیم",
@@ -42,14 +42,13 @@
     },
     {
       "name": "عصر ایران",
-      "status": "error",
-      "error": "Request timed out after 15000ms",
-      "found": 0
+      "status": "ok",
+      "found": 2
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
@@ -65,6 +64,36 @@
     }
   ],
   "items": [
+    {
+      "title": "قربانپور: هیچ ابرقدرتی یارای مقابله با اراده ملت ایران را ندارد",
+      "link": "https://www.mehrnews.com/news/6909456/%D9%82%D8%B1%D8%A8%D8%A7%D9%86%D9%BE%D9%88%D8%B1-%D9%87%DB%8C%DA%86-%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA%DB%8C-%DB%8C%D8%A7%D8%B1%D8%A7%DB%8C-%D9%85%D9%82%D8%A7%D8%A8%D9%84%D9%87-%D8%A8%D8%A7-%D8%A7%D8%B1%D8%A7%D8%AF%D9%87-%D9%85%D9%84%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%86%D8%AF%D8%A7%D8%B1%D8%AF",
+      "source": "مهر",
+      "pubDate": "2026-08-05T21:59:38.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "آستانه اشرفیه- مارشناس مسائل مذهبی با اشاره به برکت نظام جمهوری اسلامی، گفت: هیچ ابرقدرتی یارای مقابله با اراده ملت ایران را ندارد."
+    },
+    {
+      "title": "سارق سابقه‌دار سیم و کابل برق در آرادان به دام پلیس افتاد",
+      "link": "https://www.mehrnews.com/news/6909496/%D8%B3%D8%A7%D8%B1%D9%82-%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D8%AF%D8%A7%D8%B1-%D8%B3%DB%8C%D9%85-%D9%88-%DA%A9%D8%A7%D8%A8%D9%84-%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%D8%A2%D8%B1%D8%A7%D8%AF%D8%A7%D9%86-%D8%A8%D9%87-%D8%AF%D8%A7%D9%85-%D9%BE%D9%84%DB%8C%D8%B3-%D8%A7%D9%81%D8%AA%D8%A7%D8%AF",
+      "source": "مهر",
+      "pubDate": "2026-08-05T21:33:47.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "آرادان- سارق سابقه‌دار سیم و کابل برق با هوشیاری پلیس آرادان دستگیر شد و در تحقیقات به ۵۰ فقره سرقت در شاهرود و آرادان اعتراف کرد؛ تلاش برای دستگیری مالخر ادامه دارد."
+    },
+    {
+      "title": "سازمان هواشناسی اطلاعیه داد",
+      "link": "https://www.khabaronline.ir/news/2256695/%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%87%D9%88%D8%A7%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87-%D8%AF%D8%A7%D8%AF",
+      "source": "خبرآنلاین",
+      "pubDate": "2026-08-05T20:23:01.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "سازمان هواشناسی کشور نسبت به وقوع رگبار و رعد و برق و وزش باد در ۱۱ استان و افزایش ارتفاع موج تا ۱.۵ متر هشدار داد."
+    },
     {
       "title": "۱۹ دستگاه ماینر غیرمجاز در مازندران کشف شد",
       "link": "https://www.irna.ir/news/86228832/%DB%B1%DB%B9-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%85%D8%A7%DB%8C%D9%86%D8%B1-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D9%81-%D8%B4%D8%AF",
