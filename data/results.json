@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T22:16:04.201Z",
+  "lastUpdated": "2026-08-05T02:46:51.299Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
@@ -48,7 +48,7 @@
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
