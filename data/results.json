@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-09T15:35:10.885Z",
+  "lastUpdated": "2026-08-09T18:45:59.783Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 707,
+  "totalItems": 711,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 0
+      "found": 2
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 2
+      "found": 0
     },
     {
       "name": "مهر",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "تسنیم",
@@ -32,23 +32,23 @@
     {
       "name": "فارس",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 3
+      "found": 0
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
       "found": 0
     },
     {
@@ -64,6 +64,46 @@
     }
   ],
   "items": [
+    {
+      "title": "رجبی مشهدی: خاموشی‌ها تا ۲ هفته آینده به حداقل می‌رسد",
+      "link": "https://www.khabaronline.ir/news/2258317/%D8%B1%D8%AC%D8%A8%DB%8C-%D9%85%D8%B4%D9%87%D8%AF%DB%8C-%D8%AE%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%D9%87%D8%A7-%D8%AA%D8%A7-%DB%B2-%D9%87%D9%81%D8%AA%D9%87-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A8%D9%87-%D8%AD%D8%AF%D8%A7%D9%82%D9%84-%D9%85%DB%8C-%D8%B1%D8%B3%D8%AF",
+      "source": "خبرآنلاین",
+      "pubDate": "2026-08-09T18:38:11.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "معاون برق و انرژی وزارت نیرو گفت: خاموشی‌ها در مناطق عادی ۲ ساعت یا کمتر است و مناطق گرمسیر به دلیل شرایط خاص، از تخفیفات ویژه برخوردار هستند."
+    },
+    {
+      "title": "برقی سازی ۱۰۰ درصد ناوگان اتوبوسرانی منطقه ۱۲",
+      "link": "https://www.irna.ir/news/86231759/%D8%A8%D8%B1%D9%82%DB%8C-%D8%B3%D8%A7%D8%B2%DB%8C-%DB%B1%DB%B0%DB%B0-%D8%AF%D8%B1%D8%B5%D8%AF-%D9%86%D8%A7%D9%88%DA%AF%D8%A7%D9%86-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3%D8%B1%D8%A7%D9%86%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%DB%B1%DB%B2",
+      "source": "ایرنا",
+      "pubDate": "2026-08-09T18:14:13.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "تهران ـ ایرنا ـ معاون حمل و نقل و ترافیک شهرداری منطقه ۱۲  اظهار کرد: ۱۰۰ درصد ناوگان اتوبوسرانی منطقه ۱۲ برقی شد و ۱۳۵ دستگاه اتوبوس برقی در منطقه فعال هستند. در واقع هیچ اتوبوس دیزلی در ناوگان اتوبوسرانی منطقه وجود ندارد."
+    },
+    {
+      "title": "۲۳۰۰ کنتور در طرح مسکن مهر پردیس نصب شد",
+      "link": "https://www.irna.ir/news/86231665/%DB%B2%DB%B3%DB%B0%DB%B0-%DA%A9%D9%86%D8%AA%D9%88%D8%B1-%D8%AF%D8%B1-%D8%B7%D8%B1%D8%AD-%D9%85%D8%B3%DA%A9%D9%86-%D9%85%D9%87%D8%B1-%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3-%D9%86%D8%B5%D8%A8-%D8%B4%D8%AF",
+      "source": "ایرنا",
+      "pubDate": "2026-08-09T17:46:26.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "پردیس - ایرنا - رئیس اداره برق شهرستان پردیس گفت: در طرح مسکن مهر ۲۳۰۰ کنتور تک فازو ۳ فاز در طی یک سال گذشته نصب شد."
+    },
+    {
+      "title": "زائربرهای برقی حرم مطهر امام رضا (ع) از ۲۰ مرداد ۱۴۰۵ متوقف می‌شوند",
+      "link": "https://www.mehrnews.com/news/6912483/%D8%B2%D8%A7%D8%A6%D8%B1%D8%A8%D8%B1%D9%87%D8%A7%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%D8%AD%D8%B1%D9%85-%D9%85%D8%B7%D9%87%D8%B1-%D8%A7%D9%85%D8%A7%D9%85-%D8%B1%D8%B6%D8%A7-%D8%B9-%D8%A7%D8%B2-%DB%B2%DB%B0-%D9%85%D8%B1%D8%AF%D8%A7%D8%AF-%DB%B1%DB%B4%DB%B0%DB%B5-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
+      "source": "مهر",
+      "pubDate": "2026-08-09T17:28:26.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "مشهد- معاون خدمات زائرین حرم رضوی گفت: با توجه به افزایش تراکم جمعیت در روزهای پایانی ماه صفر، فعالیت دستگاه زائربر برقی از ۲۰ مرداد به‌طور موقت متوقف و از ۲۴ مرداد از سر گرفته می‌شود."
+    },
     {
       "title": "مدیرکل‌ صداوسیمای فارس: مخاطب در دوران جنگ به ارتباط با اقدامات مسئولان نیاز دارد",
       "link": "https://www.isna.ir/news/1405051810659/%D9%85%D8%AF%DB%8C%D8%B1%DA%A9%D9%84-%D8%B5%D8%AF%D8%A7%D9%88%D8%B3%DB%8C%D9%85%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3-%D9%85%D8%AE%D8%A7%D8%B7%D8%A8-%D8%AF%D8%B1-%D8%AF%D9%88%D8%B1%D8%A7%D9%86-%D8%AC%D9%86%DA%AF-%D8%A8%D9%87-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%D8%A7%D8%AA",
