@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-12T16:01:04.599Z",
+  "lastUpdated": "2026-08-12T19:05:03.604Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 800,
+  "totalItems": 803,
   "sourceReport": [
     {
       "name": "ایرنا",
@@ -32,7 +32,7 @@
     {
       "name": "فارس",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
@@ -43,12 +43,12 @@
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
       "found": 0
     },
     {
@@ -64,6 +64,36 @@
     }
   ],
   "items": [
+    {
+      "title": "مرگ مرد افغانستانی در سهروردی شمالی؛ ماجرا چیست؟",
+      "link": "https://www.khabaronline.ir/news/2259529/%D9%85%D8%B1%DA%AF-%D9%85%D8%B1%D8%AF-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%B3%D9%87%D8%B1%D9%88%D8%B1%D8%AF%DB%8C-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7-%DA%86%DB%8C%D8%B3%D8%AA",
+      "source": "خبرآنلاین",
+      "pubDate": "2026-08-12T18:09:00.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "به دنبال برق‌گرفتگی مرد میانسال در سهروردی شمالی، تحقیقات پلیسی کلید زده شد."
+    },
+    {
+      "title": "دستگیری عاملان تعدی به مدیر برق عسلویه در پی ماینینگ غیرمجاز",
+      "link": "https://www.asriran.com/fa/news/1184118/دستگیری-عاملان-تعدی-به-مدیر-برق-عسلویه-در-پی-ماینینگ-غیرمجاز",
+      "source": "عصر ایران",
+      "pubDate": "2026-08-12T17:36:49.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "فرمانده انتظامی عسلویه از دستگیری دو نفر از عاملان درگیری با مدیر برق این شهرستان خبر داد که به دلیل استخراج غیرمجاز رمز ارز دست به هنجارشکنی زده بودند."
+    },
+    {
+      "title": "دستگیری ۲ عضو باند سرقت سیم برق در دشتستان",
+      "link": "https://www.isna.ir/news/1405052112557/%D8%AF%D8%B3%D8%AA%DA%AF%DB%8C%D8%B1%DB%8C-%DB%B2-%D8%B9%D8%B6%D9%88-%D8%A8%D8%A7%D9%86%D8%AF-%D8%B3%D8%B1%D9%82%D8%AA-%D8%B3%DB%8C%D9%85-%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%D8%AF%D8%B4%D8%AA%D8%B3%D8%AA%D8%A7%D9%86",
+      "source": "ایسنا",
+      "pubDate": "2026-08-12T17:32:29.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "جانشین فرمانده انتظامی استان بوشهر از کشف ۲۶ فقره سرقت سیم و کابل برق در شهرستان دشتستان و دستگیری دو نفر از اعضای یک باند سرقت خبر داد."
+    },
     {
       "title": "نوسازی ناوگان عملیاتی با ۱۷ دستگاه ماشین آلات جدید در شرکت برق لرستان",
       "link": "https://www.khabaronline.ir/news/2259615/%D9%86%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%D9%86%D8%A7%D9%88%DA%AF%D8%A7%D9%86-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA%DB%8C-%D8%A8%D8%A7-%DB%B1%DB%B7-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D8%AE%D9%88%D8%AF%D8%B1%D9%88%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%B4%D8%B1%DA%A9%D8%AA-%D8%A8%D8%B1%D9%82-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86",
