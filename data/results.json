@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-14T10:06:17.713Z",
+  "lastUpdated": "2026-08-14T13:13:11.899Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 846,
+  "totalItems": 848,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "مهر",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "تسنیم",
@@ -38,17 +38,18 @@
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "عصر ایران",
-      "status": "ok",
-      "found": 1
+      "status": "error",
+      "error": "Request timed out after 15000ms",
+      "found": 0
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
@@ -64,6 +65,26 @@
     }
   ],
   "items": [
+    {
+      "title": "۵۰۰ مدرسه مازندران به پنل خورشیدی مجهز می‌شود",
+      "link": "https://www.khabaronline.ir/news/2260124/%DB%B5%DB%B0%DB%B0-%D9%85%D8%AF%D8%B1%D8%B3%D9%87-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D9%BE%D9%86%D9%84-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D9%85%D8%AC%D9%87%D8%B2-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "source": "خبرآنلاین",
+      "pubDate": "2026-08-14T12:49:00.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "استاندار مازندران با اشاره به برنامه‌های استان برای مقابله با ناترازی انرژی و تأمین پایدار برق گفت: ۵۰۰ مدرسه در استان به پنل‌های خورشیدی مجهز می‌شوند و نخستین نیروگاه خورشیدی شناور استان با ظرفیت یک‌ و دو دهم مگاوات در آب‌بندان گلدشت بابل، در مهرماه به بهره‌برداری خواهد رسید."
+    },
+    {
+      "title": "هشدار هواشناسی درباره وزش باد شدید و گردوخاک",
+      "link": "https://www.mehrnews.com/news/6916176/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D9%87%D9%88%D8%A7%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D9%88%D8%B2%D8%B4-%D8%A8%D8%A7%D8%AF-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%88-%DA%AF%D8%B1%D8%AF%D9%88%D8%AE%D8%A7%DA%A9",
+      "source": "مهر",
+      "pubDate": "2026-08-14T12:27:46.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "سازمان هواشناسی از رگبار و رعدوبرق در شمال و جنوب کشور طی امروز و فردا (۲۳ و ۲۴ مرداد) و وزش باد شدید، گردوخاک و کاهش کیفیت هوا در شرق و مرکز خبر داد."
+    },
     {
       "title": "برق‌رسانی به ۳۴ هزار واحد نهضت ملی مسکن قم با جدیت دنبال می‌شود",
       "link": "https://www.isna.ir/news/1405052313133/%D8%A8%D8%B1%D9%82-%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%DB%B3%DB%B4-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D9%86%D9%87%D8%B6%D8%AA-%D9%85%D9%84%DB%8C-%D9%85%D8%B3%DA%A9%D9%86-%D9%82%D9%85-%D8%A8%D8%A7-%D8%AC%D8%AF%DB%8C%D8%AA-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
