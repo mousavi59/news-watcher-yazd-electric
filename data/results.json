@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-14T18:58:37.842Z",
+  "lastUpdated": "2026-08-14T21:28:18.359Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 853,
+  "totalItems": 854,
   "sourceReport": [
     {
       "name": "ایرنا",
@@ -16,12 +16,12 @@
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "مهر",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "تسنیم",
@@ -48,7 +48,7 @@
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
@@ -64,6 +64,16 @@
     }
   ],
   "items": [
+    {
+      "title": "رونمایی از یک مالیات جدید در ایران/ سبحانیان: زیرساخت‌های اجرای قانون مالیات بر سوداگری و سفته‌بازی اماده است",
+      "link": "https://www.khabaronline.ir/news/2260292/%D8%B1%D9%88%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%DB%8C%DA%A9-%D9%85%D8%A7%D9%84%DB%8C%D8%A7%D8%AA-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B3%D8%A8%D8%AD%D8%A7%D9%86%DB%8C%D8%A7%D9%86-%D8%B2%DB%8C%D8%B1%D8%B3%D8%A7%D8%AE%D8%AA-%D9%87%D8%A7%DB%8C-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C",
+      "source": "خبرآنلاین",
+      "pubDate": "2026-08-14T19:30:00.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "سیدمحمدهادی سبحانیان، رییس‌کل سازمان امور مالیاتی کشور از برقراری یک مالیات جدید در آینده نزدیک خبر داد."
+    },
     {
       "title": "حواشی دیدار استقلال و مس شهر بابک/ بازیکنان پولی، جام قهرمانی و قطعی برق!",
       "link": "https://www.isna.ir/news/1405052313290/%D8%AD%D9%88%D8%A7%D8%B4%DB%8C-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D9%88-%D9%85%D8%B3-%D8%B4%D9%87%D8%B1-%D8%A8%D8%A7%D8%A8%DA%A9-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D9%BE%D9%88%D9%84%DB%8C-%D8%AC%D8%A7%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C",
