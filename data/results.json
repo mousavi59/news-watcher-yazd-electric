@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-15T21:23:59.011Z",
+  "lastUpdated": "2026-08-16T01:34:54.213Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 899,
+  "totalItems": 900,
   "sourceReport": [
     {
       "name": "ایرنا",
@@ -43,12 +43,12 @@
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 5
+      "found": 6
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
       "found": 0
     },
     {
@@ -64,6 +64,16 @@
     }
   ],
   "items": [
+    {
+      "title": "دلیل خوابیدن مداوم باتری خودرو چیست؟",
+      "link": "https://www.asriran.com/fa/news/1184560/دلیل-خوابیدن-مداوم-باتری-خودرو-چیست",
+      "source": "عصر ایران",
+      "pubDate": "2026-08-16T01:00:02.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "خالی شدن مکرر باتری خودرو همیشه به معنای خرابی آن نیست و گاهی باید به دنبال ریشهٔ اصلی این مشکل در سیستم برق یا عادت‌های رانندگی بود."
+    },
     {
       "title": "دورکاری ادارات خوزستان در پی افزایش دما در روز دوشنبه",
       "link": "https://www.irna.ir/news/86236398/%D8%AF%D9%88%D8%B1%DA%A9%D8%A7%D8%B1%DB%8C-%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AF%D9%85%D8%A7-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2-%D8%AF%D9%88%D8%B4%D9%86%D8%A8%D9%87",
