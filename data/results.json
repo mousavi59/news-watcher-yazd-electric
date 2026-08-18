@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-08-18T15:35:09.615Z",
+  "lastUpdated": "2026-08-18T18:41:58.741Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 979,
+  "totalItems": 980,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 2
+      "found": 0
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "مهر",
@@ -32,23 +32,23 @@
     {
       "name": "فارس",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 2
+      "found": 1
     },
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 3
+      "found": 2
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
       "found": 0
     },
     {
@@ -64,6 +64,16 @@
     }
   ],
   "items": [
+    {
+      "title": "تولید زیر فشار ناترازی؛ صدای صنعتگران قزوین به مجلس رسید",
+      "link": "https://www.khabaronline.ir/news/2262234/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B2%DB%8C%D8%B1-%D9%81%D8%B4%D8%A7%D8%B1-%D9%86%D8%A7%D8%AA%D8%B1%D8%A7%D8%B2%DB%8C-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA%DA%AF%D8%B1%D8%A7%D9%86-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%A8%D9%87-%D9%85%D8%AC%D9%84%D8%B3-%D8%B1%D8%B3%DB%8C%D8%AF",
+      "source": "خبرآنلاین",
+      "pubDate": "2026-08-18T16:45:16.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "برق محدود، کمبود ارز، دشواری بازگشت ارز صادراتی، بخشنامه‌های ناگهانی و مشکلات تأمین مواد اولیه؛ مهم‌ترین مطالبات صنعتگران قزوین در نشست با اعضای کمیسیون صنایع مجلس بود؛ مطالباتی که تولیدکنندگان معتقدند ادامه فعالیت واحدهای صنعتی را دشوار کرده و نیازمند تصمیم‌های فوری و کارشناسی است."
+    },
     {
       "title": "گروگان‌گیری دادستان و مسئولان اداره برق در یک شهر جنوبی",
       "link": "https://www.khabaronline.ir/news/2262206/%DA%AF%D8%B1%D9%88%DA%AF%D8%A7%D9%86-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AF%D8%A7%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D9%85%D8%B3%D8%A6%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D8%AF%D8%A7%D8%B1%D9%87-%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%DB%8C%DA%A9-%D8%B4%D9%87%D8%B1-%D8%AC%D9%86%D9%88%D8%A8%DB%8C",
