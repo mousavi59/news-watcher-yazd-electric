@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-08-18T18:41:58.741Z",
+  "lastUpdated": "2026-08-18T21:27:40.517Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 980,
+  "totalItems": 981,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "ایسنا",
@@ -32,23 +32,23 @@
     {
       "name": "فارس",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
       "found": 0
     },
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 2
+      "found": 1
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
@@ -64,6 +64,16 @@
     }
   ],
   "items": [
+    {
+      "title": "پایان بحران تشنگی در ۹۰ روستای کرمان؛ ۵۰ هزار نفر از آب پایدار بهره‌مند شدند",
+      "link": "https://www.irna.ir/news/86239385/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%AA%D8%B4%D9%86%DA%AF%DB%8C-%D8%AF%D8%B1-%DB%B9%DB%B0-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%DB%B5%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%B1-%D8%A7%D8%B2-%D8%A2%D8%A8-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1",
+      "source": "ایرنا",
+      "pubDate": "2026-08-18T19:25:00.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "کرمان - ایرنا - ۹۰ روستای استان کرمان در قالب طرح‌های آبرسانی به ۴۷۲ روستا در سراسر کشور، با حضور برخط وزیر نیرو و معاون رئیس‌جمهور، همزمان با برگزاری پویش سراسری افتتاح طرح‌های صنعت آب و برق افتتاح شد، پروژه‌ای که با حفر ۲۰ حلقه چاه و اجرای بیش از ۹۰ کیلومتر شبکه آبرسانی، پایان بحران تشنگی در ۹۰ رو"
+    },
     {
       "title": "تولید زیر فشار ناترازی؛ صدای صنعتگران قزوین به مجلس رسید",
       "link": "https://www.khabaronline.ir/news/2262234/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D8%B2%DB%8C%D8%B1-%D9%81%D8%B4%D8%A7%D8%B1-%D9%86%D8%A7%D8%AA%D8%B1%D8%A7%D8%B2%DB%8C-%D8%B5%D8%AF%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA%DA%AF%D8%B1%D8%A7%D9%86-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%A8%D9%87-%D9%85%D8%AC%D9%84%D8%B3-%D8%B1%D8%B3%DB%8C%D8%AF",
