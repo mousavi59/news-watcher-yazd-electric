@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-08-18T01:22:48.492Z",
+  "lastUpdated": "2026-08-18T03:47:32.474Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 957,
+  "totalItems": 960,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 1
+      "found": 2
     },
     {
       "name": "ایسنا",
@@ -21,7 +21,7 @@
     {
       "name": "مهر",
       "status": "ok",
-      "found": 1
+      "found": 2
     },
     {
       "name": "تسنیم",
@@ -38,17 +38,17 @@
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 2
+      "found": 1
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
@@ -64,6 +64,36 @@
     }
   ],
   "items": [
+    {
+      "title": "بی برقی چهار روزه ناوشکن نیروی دریایی آمریکا در دریای چین",
+      "link": "https://www.irna.ir/news/86238446/%D8%A8%DB%8C-%D8%A8%D8%B1%D9%82%DB%8C-%DA%86%D9%87%D8%A7%D8%B1-%D8%B1%D9%88%D8%B2%D9%87-%D9%86%D8%A7%D9%88%D8%B4%DA%A9%D9%86-%D9%86%DB%8C%D8%B1%D9%88%DB%8C-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C-%DA%86%DB%8C%D9%86",
+      "source": "ایرنا",
+      "pubDate": "2026-08-18T03:41:12.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "تهران - ایرنا - بر اساس گزارش رسانه های آمریکایی، ناوشکن «یواس‌اس بنفولد» ماه گذشته به دلیل نقص فنی به مدت چهار روز در دریای چین جنوبی بدون برق ماند."
+    },
+    {
+      "title": "خاموشی با برنامه برق در کهگیلویه و بویراحمد",
+      "link": "https://www.mehrnews.com/news/6919782/%D8%AE%D8%A7%D9%85%D9%88%D8%B4%DB%8C-%D8%A8%D8%A7-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%DA%A9%D9%87%DA%AF%DB%8C%D9%84%D9%88%DB%8C%D9%87-%D9%88-%D8%A8%D9%88%DB%8C%D8%B1%D8%A7%D8%AD%D9%85%D8%AF",
+      "source": "مهر",
+      "pubDate": "2026-08-18T03:22:35.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "یاسوج- روابط عمومی شرکت توزیع نیروی برق کهگیلویه و بویراحمد از خاموشی با برنامه برق به منظور پایداری شبکه در روز سه شنبه خبر داد."
+    },
+    {
+      "title": "قطع کامل برق ناوشکن آمریکایی در دریای چین جنوبی",
+      "link": "https://www.mehrnews.com/news/6919774/%D9%82%D8%B7%D8%B9-%DA%A9%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D9%82-%D9%86%D8%A7%D9%88%D8%B4%DA%A9%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C-%DA%86%DB%8C%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C",
+      "source": "مهر",
+      "pubDate": "2026-08-18T02:29:25.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "یک رسانه آمریکایی اعلام کرد که برق یک ناوشکن این کشور در دریای چین جنوبی برای چند روز قطع بوده است."
+    },
     {
       "title": "۱۶ هزار واحد مسکن ملی در استان زنجان برق‌دار می شوند",
       "link": "https://www.mehrnews.com/news/6919739/%DB%B1%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%86-%D9%85%D9%84%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-%D8%A8%D8%B1%D9%82-%D8%AF%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
