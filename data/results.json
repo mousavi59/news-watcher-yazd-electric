@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-18T21:27:40.517Z",
+  "lastUpdated": "2026-08-19T01:24:55.789Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 981,
+  "totalItems": 982,
   "sourceReport": [
     {
       "name": "ایرنا",
@@ -48,7 +48,7 @@
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Request timed out after 15000ms",
+      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
       "found": 0
     },
     {
@@ -64,6 +64,16 @@
     }
   ],
   "items": [
+    {
+      "title": "انفجار خط صادرات گاز سوریه؛ فعالیت چند نیروگاه برق مختل شد",
+      "link": "https://www.irna.ir/news/86239441/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AE%D8%B7-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%DA%AF%D8%A7%D8%B2-%D8%B3%D9%88%D8%B1%DB%8C%D9%87-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%DA%86%D9%86%D8%AF-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%D8%A8%D8%B1%D9%82-%D9%85%D8%AE%D8%AA%D9%84-%D8%B4%D8%AF",
+      "source": "ایرنا",
+      "pubDate": "2026-08-18T23:59:53.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "تهران-ایرنا- شرکت نفت سوریه از انفجار خرابکارانه و عمدی در خط صادرات گاز این کشور خبر داده است."
+    },
     {
       "title": "پایان بحران تشنگی در ۹۰ روستای کرمان؛ ۵۰ هزار نفر از آب پایدار بهره‌مند شدند",
       "link": "https://www.irna.ir/news/86239385/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%AA%D8%B4%D9%86%DA%AF%DB%8C-%D8%AF%D8%B1-%DB%B9%DB%B0-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%DB%B5%DB%B0-%D9%87%D8%B2%D8%A7%D8%B1-%D9%86%D9%81%D8%B1-%D8%A7%D8%B2-%D8%A2%D8%A8-%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1",
