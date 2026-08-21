@@ -1,44 +1,44 @@
 {
-  "lastUpdated": "2026-08-21T12:54:22.737Z",
+  "lastUpdated": "2026-08-21T15:37:02.411Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 1068,
+  "totalItems": 1070,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "مهر",
       "status": "ok",
-      "found": 2
+      "found": 0
     },
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
       "name": "فارس",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 2838\nChar: >",
+      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
       "found": 0
     },
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 1
+      "found": 0
     },
     {
       "name": "عصر ایران",
@@ -60,10 +60,30 @@
     {
       "name": "تابناک",
       "status": "ok",
-      "found": 4
+      "found": 3
     }
   ],
   "items": [
+    {
+      "title": "آبرسانی به ۵۰۰ هکتار از اراضی کشاورزی و حل مشکلات مجوزهای حفر چاه در شوشتر و گتوند",
+      "link": "https://www.isna.ir/news/1405053017929/%D8%A2%D8%A8%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%DB%B5%DB%B0%DB%B0-%D9%87%DA%A9%D8%AA%D8%A7%D8%B1-%D8%A7%D8%B2-%D8%A7%D8%B1%D8%A7%D8%B6%DB%8C-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D9%88-%D8%AD%D9%84-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D9%85%D8%AC%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D8%AD%D9%81%D8%B1",
+      "source": "ایسنا",
+      "pubDate": "2026-08-21T15:26:46.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "در جریان سفر مدیرعامل سازمان آب و برق خوزستان، به شهرستان‌های شوشتر و گتوند، مهم‌ترین طرح‌های تأمین آب کشاورزی، آبرسانی شهری، ذخیره‌سازی آب و نگهداری سازه‌های آبی تاریخی مورد بررسی قرار گرفت."
+    },
+    {
+      "title": "نخبگان چگونه بخشی از راه حل می‌شوند؟",
+      "link": "https://www.irna.ir/news/86241229/%D9%86%D8%AE%D8%A8%DA%AF%D8%A7%D9%86-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A8%D8%AE%D8%B4%DB%8C-%D8%A7%D8%B2-%D8%B1%D8%A7%D9%87-%D8%AD%D9%84-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
+      "source": "ایرنا",
+      "pubDate": "2026-08-21T15:16:00.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "یاسوج- ایرنا- برای یک نخبه، مساله فقط داشتن مدرک، مقاله یا عنوان علمی نیست؛ مساله از جایی آغاز می‌شود که دانسته‌های او بتواند گرهی از زندگی مردم باز کند. این همان نقطه‌ای است که رویکرد تازه بنیاد ملی نخبگان بر آن تأکید دارد؛ رویکردی که می‌خواهد نخبه را از فضای صرفاً دانشگاهی بیرون بیاورد و میان توان"
+    },
     {
       "title": "اینفوگرافیک؛ زندگی سخت عشایر در مازندران",
       "link": "https://www.mehrnews.com/photo/6921416/%D8%A7%DB%8C%D9%86%D9%81%D9%88%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%D8%B3%D8%AE%D8%AA-%D8%B9%D8%B4%D8%A7%DB%8C%D8%B1-%D8%AF%D8%B1-%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86",
