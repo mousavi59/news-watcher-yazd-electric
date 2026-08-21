@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-21T01:28:14.773Z",
+  "lastUpdated": "2026-08-21T03:52:59.981Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 1049,
+  "totalItems": 1050,
   "sourceReport": [
     {
       "name": "ایرنا",
@@ -16,12 +16,12 @@
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 3
+      "found": 2
     },
     {
       "name": "مهر",
       "status": "ok",
-      "found": 0
+      "found": 1
     },
     {
       "name": "تسنیم",
@@ -48,7 +48,7 @@
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
@@ -64,6 +64,16 @@
     }
   ],
   "items": [
+    {
+      "title": "هشدار زرد هواشناسی در استان سمنان؛ بارش و رعدوبرق در راه است",
+      "link": "https://www.mehrnews.com/news/6922697/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%B2%D8%B1%D8%AF-%D9%87%D9%88%D8%A7%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%B3%D9%85%D9%86%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D8%B4-%D9%88-%D8%B1%D8%B9%D8%AF%D9%88%D8%A8%D8%B1%D9%82-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA",
+      "source": "مهر",
+      "pubDate": "2026-08-21T03:25:30.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "سمنان- سامانه بارشی در استان سمنان فعال شده و تا شنبه ادامه دارد و بارش، رعدوبرق، صاعقه و احتمال تگرگ در نیمه شمالی و شرق استان پیش‌بینی شده است."
+    },
     {
       "title": "تولید فولاد در لیبی به علت کمبود برق متوقف شد",
       "link": "https://www.irna.ir/news/86241173/%D8%AA%D9%88%D9%84%DB%8C%D8%AF-%D9%81%D9%88%D9%84%D8%A7%D8%AF-%D8%AF%D8%B1-%D9%84%DB%8C%D8%A8%DB%8C-%D8%A8%D9%87-%D8%B9%D9%84%D8%AA-%DA%A9%D9%85%D8%A8%D9%88%D8%AF-%D8%A8%D8%B1%D9%82-%D9%85%D8%AA%D9%88%D9%82%D9%81-%D8%B4%D8%AF",
