@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-22T18:34:57.750Z",
+  "lastUpdated": "2026-08-22T21:25:01.504Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 1106,
+  "totalItems": 1107,
   "sourceReport": [
     {
       "name": "ایرنا",
@@ -21,12 +21,12 @@
     {
       "name": "مهر",
       "status": "ok",
-      "found": 3
+      "found": 0
     },
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
@@ -38,17 +38,17 @@
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 2
+      "found": 0
     },
     {
       "name": "عصر ایران",
       "status": "ok",
-      "found": 4
+      "found": 2
     },
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
@@ -60,10 +60,20 @@
     {
       "name": "تابناک",
       "status": "ok",
-      "found": 3
+      "found": 4
     }
   ],
   "items": [
+    {
+      "title": "تعمیر سرخود کولر، جان مرد جوان را گرفت",
+      "link": "https://www.tabnak.ir/fa/news/1391020/تعمیر-سرخود-کولر-جان-مرد-جوان-را-گرفت",
+      "source": "تابناک",
+      "pubDate": "2026-08-22T20:24:03.000Z",
+      "matchedKeywords": [
+        "برق"
+      ],
+      "snippet": "سخنگوی سازمان آتش نشانی مشهد از جان باختن یک مرد بر اثر برق گرفتگی هنگام تعمیر کولر خبر داد."
+    },
     {
       "title": "تداوم ناپایداری‌های جوی در هرمزگان تا سه‌شنبه",
       "link": "https://www.mehrnews.com/news/6924300/%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D9%86%D8%A7%D9%BE%D8%A7%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AC%D9%88%DB%8C-%D8%AF%D8%B1-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%AA%D8%A7-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87",
