@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-04T22:52:39.856Z",
+  "lastUpdated": "2026-09-05T03:40:21.895Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 1313,
+  "totalItems": 1312,
   "sourceReport": [
     {
       "name": "ایرنا",
@@ -32,13 +32,13 @@
     {
       "name": "فارس",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Unexpected close tag\nLine: 11\nColumn: 82\nChar: >",
       "found": 0
     },
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 2
+      "found": 1
     },
     {
       "name": "عصر ایران",
@@ -48,7 +48,7 @@
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
+      "error": "Request timed out after 15000ms",
       "found": 0
     },
     {
@@ -60,7 +60,7 @@
     {
       "name": "تابناک",
       "status": "ok",
-      "found": 3
+      "found": 2
     }
   ],
   "items": [
@@ -13185,16 +13185,6 @@
         "برق"
       ],
       "snippet": "بوشهر- فرماندار بوشهر گفت: برق روستای بندرگاه بوشهر که بر لثر حمله موشکی دشمن قطع شده بود، وصل شد."
-    },
-    {
-      "title": "ببینید | ذوق ترامپ از تعریف و تمجید رئیس‌جمهور لبنان!",
-      "link": "https://www.khabaronline.ir/news/2249755/%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF-%D8%B0%D9%88%D9%82-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D9%88-%D8%AA%D9%85%D8%AC%DB%8C%D8%AF-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
-      "source": "خبرآنلاین",
-      "pubDate": "2026-07-22T02:30:00.000Z",
-      "matchedKeywords": [
-        "برق"
-      ],
-      "snippet": "در جریان دیدار رئیس‌جمهور لبنان با دونالد ترامپ، جوزف عون با تمجید از رئیس‌جمهور آمریکا گفت مشتاقانه منتظر دیدار با «رئیس‌جمهوری بزرگ» بوده است؛ ترامپ نیز در واکنش با لحنی طنزآمیز گفت: «دیدید؟ او می‌داند چطور با من ارتباط برقرار کند؛ حالا می‌تواند هر چیزی را داشته باشد.» منبع: صابرین نیوز"
     }
   ]
 }
