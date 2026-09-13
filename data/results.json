@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T20:30:46.671Z",
+  "lastUpdated": "2026-09-13T22:59:59.848Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
@@ -26,7 +26,7 @@
     {
       "name": "تسنیم",
       "status": "error",
-      "error": "Unexpected close tag\nLine: 26\nColumn: 7\nChar: >",
+      "error": "Status code 502",
       "found": 0
     },
     {
