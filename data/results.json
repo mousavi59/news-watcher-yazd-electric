@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T20:32:34.038Z",
+  "lastUpdated": "2026-09-20T23:04:30.545Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
@@ -32,7 +32,7 @@
     {
       "name": "فارس",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Attribute without value\nLine: 0\nColumn: 2916\nChar: >",
       "found": 0
     },
     {
@@ -48,7 +48,7 @@
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
