@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-10-01T20:12:21.658Z",
+  "lastUpdated": "2026-10-02T00:35:44.225Z",
   "keywords": [
     "برق منطقه‌ای یزد",
     "برق یزد",
     "قطعی برق یزد",
     "برق"
   ],
-  "totalItems": 940,
+  "totalItems": 938,
   "sourceReport": [
     {
       "name": "ایرنا",
       "status": "ok",
-      "found": 2
+      "found": 1
     },
     {
       "name": "ایسنا",
       "status": "ok",
-      "found": 2
+      "found": 1
     },
     {
       "name": "مهر",
@@ -32,13 +32,13 @@
     {
       "name": "فارس",
       "status": "error",
-      "error": "Feed not recognized as RSS 1 or 2.",
+      "error": "Attribute without value\nLine: 0\nColumn: 2916\nChar: >",
       "found": 0
     },
     {
       "name": "خبرآنلاین",
       "status": "ok",
-      "found": 2
+      "found": 0
     },
     {
       "name": "عصر ایران",
@@ -48,7 +48,7 @@
     {
       "name": "صدا و سیما",
       "status": "error",
-      "error": "Attribute without value\nLine: 0\nColumn: 1722\nChar: >",
+      "error": "Feed not recognized as RSS 1 or 2.",
       "found": 0
     },
     {
@@ -9445,26 +9445,6 @@
         "برق"
       ],
       "snippet": "یک رسانه آمریکایی اعلام کرد که برق یک ناوشکن این کشور در دریای چین جنوبی برای چند روز قطع بوده است."
-    },
-    {
-      "title": "۱۶ هزار واحد مسکن ملی در استان زنجان برق‌دار می شوند",
-      "link": "https://www.mehrnews.com/news/6919739/%DB%B1%DB%B6-%D9%87%D8%B2%D8%A7%D8%B1-%D9%88%D8%A7%D8%AD%D8%AF-%D9%85%D8%B3%DA%A9%D9%86-%D9%85%D9%84%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-%D8%A8%D8%B1%D9%82-%D8%AF%D8%A7%D8%B1-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
-      "source": "مهر",
-      "pubDate": "2026-08-17T21:37:04.000Z",
-      "matchedKeywords": [
-        "برق"
-      ],
-      "snippet": "زنجان- مدیرعامل شرکت توزیع نیروی برق استان زنجان از پیشرفت گسترده عملیات برق‌رسانی به سایت‌های مسکن ملی خبر داد و گفت: ۱۶ هزار واحد مسکن ملی در مسیر برق‌دار شدن هستند."
-    },
-    {
-      "title": "استاندار خراسان‌شمالی‌: احداث نیروگاه ۱۰۰ مگاواتی خورشیدی شتاب می‌گیرد",
-      "link": "https://www.irna.ir/news/86238409/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB-%D9%86%DB%8C%D8%B1%D9%88%DA%AF%D8%A7%D9%87-%DB%B1%DB%B0%DB%B0-%D9%85%DA%AF%D8%A7%D9%88%D8%A7%D8%AA%DB%8C-%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF%DB%8C-%D8%B4%D8%AA%D8%A7%D8%A8",
-      "source": "ایرنا",
-      "pubDate": "2026-08-17T21:26:47.000Z",
-      "matchedKeywords": [
-        "برق"
-      ],
-      "snippet": "بجنورد- ایرنا- استاندار خراسان شمالی گفت: طرح احداث نیروگاه ۱۰۰ مگاواتی خورشیدی در استان با مشارکت سازمان گسترش و نوسازی صنایع ایران (ایدرو) به‌منظور تامین پایدار برق واحدهای تولیدی شتاب می‌گیرد."
     }
   ]
 }
