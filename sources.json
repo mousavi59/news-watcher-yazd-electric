@@ -2,10 +2,10 @@
   { "name": "ایرنا", "url": "https://www.irna.ir/rss" },
   { "name": "ایسنا", "url": "https://www.isna.ir/rss" },
   { "name": "مهر", "url": "https://www.mehrnews.com/rss" },
-  { "name": "تسنیم", "url": "https://www.tasnimnews.ir/fa/rss" },
+  { "name": "تسنیم", "url": "https://www.tasnimnews.ir/fa/rss/feed/0/0/8/1/TopStories" },
   { "name": "خبرآنلاین", "url": "https://www.khabaronline.ir/rss" },
   { "name": "عصر ایران", "url": "https://www.asriran.com/fa/rss/allnews" },
-  { "name": "صدا و سیما", "url": "https://www.iribnews.ir/fa/rss" },
+  { "name": "صدا و سیما", "url": "https://www.irib-news.ir/fa/rss/allnews" },
   { "name": "تابناک", "url": "https://www.tabnak.ir/fa/rss/allnews" },
   { "name": "برق نیوز", "url": "https://barghnews.com/fa/rss/allnews" }
 ]
